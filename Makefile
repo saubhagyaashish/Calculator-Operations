@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = lms
+PROJECT_NAME = cal
 
 # Output directory
 BUILD = build
@@ -9,9 +9,6 @@ BUILD = build
 SRC =src/lms.c\
 
 
-# All test source files
-#TEST_SRC = src/calculator_operations.c\
-#test/test_calculator_operations.c
 
 #TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
