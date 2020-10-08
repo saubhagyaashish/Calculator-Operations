@@ -5,7 +5,8 @@ PROJECT_NAME = lms
 BUILD = build
 
 # All source code files
-SRC = p_cal.c\
+# All source code files
+SRC =src/lms.c\
 
 
 # All test source files
