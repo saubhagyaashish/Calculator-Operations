@@ -1,4 +1,5 @@
-SRC = unity/unity.c\
+SRC = src/p_cal.c\
+test/p_test.c
 src/p_cal.c\
 test/p_test.c
 
